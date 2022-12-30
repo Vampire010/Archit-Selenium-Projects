@@ -3,6 +3,7 @@
 	<name>Archit_Selenium_Jan</name>
 	<comment></comment>
 	<projects>
+		<project>Archit_Java-Dec</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
